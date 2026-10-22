@@ -16,3 +16,5 @@ DB Driver: consumir informacion
 MongoDB: retorna la informacion
 
 roles y permisos va estar los controladores, va recoger informacion para volver a retornar.
+
+https://anndreloopez012.github.io/campuslands-jwt-passport-interactivo/#anatomia
