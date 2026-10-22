@@ -1,0 +1,25 @@
+# Dependencias
+node_modules/
+
+# Archivos de entorno y secretos (donde guardas tus claves secretas de JWT y base de datos)
+.env
+.env.local
+.env.*.local
+
+# Logs de Node.js y npm
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+logs/
+*.log
+
+# Directorios de compilación o distribución (si aplica más adelante)
+dist/
+build/
+
+# Archivos del sistema operativo y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
